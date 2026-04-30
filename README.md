@@ -4,6 +4,20 @@
 
 ---
 
+### 🔥 最近在做什么
+
+> 这个区块记录当下在折腾的事情，过期的就划掉或删掉。
+> 自用日志，不用很正式。
+
+- 🛠️ **正在做**：cnipa-patent-collector 数据清洗逻辑优化
+- 📖 **正在学**：Supabase 的 Row Level Security
+- 💭 **在想**：要不要把 svg-generator 接到 todolist 里
+- ✅ **最近完成**：~~跑通 Next.js + Supabase 模板~~
+
+<sub>更新于 2026-04</sub>
+
+---
+
 ### 🤖 AI 与工具
 
 | 项目 | 说明 | 状态 |
@@ -12,7 +26,7 @@
 | [svg-generator](https://github.com/chenxiaomon/svg-generator) | SVG 图形生成工具 | 🟢 |
 | [ai-docs](https://github.com/chenxiaomon/ai-docs) | AI 相关文档与笔记 | 📚 |
 
-### 🔬 工作与数据
+### 🔬 研究与数据
 
 | 项目 | 说明 | 状态 |
 | --- | --- | --- |
