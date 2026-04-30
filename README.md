@@ -12,7 +12,7 @@
 | [svg-generator](https://github.com/chenxiaomon/svg-generator) | SVG 图形生成工具 | 🟢 |
 | [ai-docs](https://github.com/chenxiaomon/ai-docs) | AI 相关文档与笔记 | 📚 |
 
-### 🔬 研究与数据
+### 🔬 工作与数据
 
 | 项目 | 说明 | 状态 |
 | --- | --- | --- |
